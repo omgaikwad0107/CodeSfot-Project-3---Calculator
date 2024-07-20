@@ -1,1 +1,2 @@
-# CodeSfot-Project-3---Calculator
+# CODSOFT3
+Calculator
